@@ -2,7 +2,7 @@
 
 # **Encode** (The coding Club of [PDPU][link:pdpu_web]) presents workshop on Database
 
-## :floppy_disk: Workshop Slides [here]()
+## :floppy_disk: Workshop Slides [here](https://bit.ly/db-ppt)
 
 <br>
 
