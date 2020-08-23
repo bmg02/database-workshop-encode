@@ -1,6 +1,6 @@
 [<img src="encode.jpg" width="200">][link:encode_insta]
 
-# **Encode** (The programming Club of [PDPU][link:pdpu_web]) presents workshop on Database
+# **Encode** (The coding Club of [PDPU][link:pdpu_web]) presents workshop on Database
 
 ## :floppy_disk: Workshop Slides [here]()
 
