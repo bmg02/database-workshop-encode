@@ -1,4 +1,4 @@
-[<img src="res/encode_logo.jpg" width="200">][link:encode_insta]
+[<img src="encode_logo.jpg" width="200">][link:encode_insta]
 
 # **Encode** (The programming Club of [PDPU][link:pdpu_web]) presents workshop on Database
 
